@@ -7,7 +7,7 @@ The **Traffic Data Analysis** project focuses on analyzing user interaction and 
 The primary objective of this project is to transform raw traffic data into meaningful insights using Exploratory Data Analysis (EDA), helping stakeholders understand user behavior, content popularity, and regional engagement trends.
 
 ---
-  
+   
 ## 🎯 Objectives
 
 - Analyze user interaction events and traffic patterns.
