@@ -8,7 +8,7 @@ The primary objective of this project is to transform raw traffic data into mean
 
 ---
     
-## 🎯 Objectives
+## 🎯 Objectives 
  
 - Analyze user interaction events and traffic patterns.
 - Identify the most popular artists, albums, and tracks.
