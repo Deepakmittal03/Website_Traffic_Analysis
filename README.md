@@ -13,7 +13,7 @@ The primary objective of this project is to transform raw traffic data into mean
 - Analyze user interaction events and traffic patterns. 
 - Identify the most popular artists, albums, and tracks. 
 - Understand geographic distribution of traffic.
-- Examine country-wise and city-wise engagement.
+- Examine country-wise and city-wise engagement. 
 - Discover high-performing links and content.
 - Visualize traffic trends using Python libraries.
 - Generate actionable business insights from user activity data.
